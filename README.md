@@ -1,10 +1,12 @@
 ### Hi there 👋
-## Welcome to kaushikDev's humble abode.
+#### Welcome to kaushikDev's humble abode.
 
-👯 I’m looking to collaborate on React projects. 
-📫 If you're interested in working together, you could reach me at :
-✉️ piyush.kaushik02@gmail.com
-👔 https://www.linkedin.com/in/piyush-kaushik-61166a22/
+#### I love React. If you do too, we can be friends. 😄
+
+- 👯 I’m looking to collaborate on React projects. 
+- 📫 If you're interested in working together, you could reach me at :
+- ✉️ piyush.kaushik02@gmail.com
+- 👔 https://www.linkedin.com/in/piyush-kaushik-61166a22/
 <!--
 **KaushikDev/kaushikDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
